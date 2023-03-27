@@ -1,6 +1,6 @@
 # Elegant and fancy beatmaker app
 
-![beatmaker_App](https://i.imgur.com/DRkQ1wE.png)
+![beatmaker_App](https://i.imgur.com/cZGiKOb.png)
 
 > With its sleek and sophisticated user interface resembling a real drum kit, the app immerses users in a captivating and entertaining experience that truly takes their breath away. The intricate design and attention to detail are nothing short of mind-blowing, elevating the drumming experience to a whole new level of professionalism.
 
